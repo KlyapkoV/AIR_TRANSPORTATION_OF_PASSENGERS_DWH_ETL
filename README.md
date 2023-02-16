@@ -29,11 +29,11 @@
 &nbsp;
 # _ФАЙЛЫ ПРОЕКТА_:
 
-## [SQL-скрипт для создания таблиц фактов и измерений (включая запрос на обогащение таблицы dim_calendar)](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/script.sql)
-## [SQL-скрипт для поднятия демонстрационной БД](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/demo_small.sql)
-## [SQL-скрипт для трансформации данных о тарифах и таблицы фактов из внешнего источника](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/script_(tarriff%20and%20fact).sql)
-## [ETL-процесс обогащения таблицы dim_aircrafts](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/ETL_aircrafts.ktr)
-## [ETL-процесс обогащения таблицы dim_airports](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/ETL_airports.ktr)
-## [ETL-процесс обогащения таблицы dim_passengers](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/ETL_passengers.ktr)
-## [ETL-процесс обогащения таблицы dim_tariff](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/ETL_tariff.ktr)
-## [ETL-процесс обогащения таблицы fact_flights](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/ETL_fact_flights.ktr)
+- ## [SQL-скрипт для создания таблиц фактов и измерений (включая запрос на обогащение таблицы dim_calendar)](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/script.sql)
+- ## [SQL-скрипт для поднятия демонстрационной БД](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/demo_small.sql)
+- ## [SQL-скрипт для трансформации данных о тарифах и таблицы фактов из внешнего источника](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/script_(tarriff%20and%20fact).sql)
+- ## [ETL-процесс обогащения таблицы dim_aircrafts](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/ETL_aircrafts.ktr)
+- ## [ETL-процесс обогащения таблицы dim_airports](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/ETL_airports.ktr)
+- ## [ETL-процесс обогащения таблицы dim_passengers](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/ETL_passengers.ktr)
+- ## [ETL-процесс обогащения таблицы dim_tariff](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/ETL_tariff.ktr)
+- ## [ETL-процесс обогащения таблицы fact_flights](https://github.com/KlyapkoV/AIR_TRANSPORTATION_OF_PASSENGERS_DWH_ETL/blob/main/ETL_fact_flights.ktr)
